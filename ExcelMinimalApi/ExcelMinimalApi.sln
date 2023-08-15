@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExcelApi", "ExcelApi\ExcelApi.csproj", "{53141E81-CF33-4FF2-9195-D71CA191BDAA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{53141E81-CF33-4FF2-9195-D71CA191BDAA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53141E81-CF33-4FF2-9195-D71CA191BDAA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53141E81-CF33-4FF2-9195-D71CA191BDAA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53141E81-CF33-4FF2-9195-D71CA191BDAA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25739AE6-00C4-4038-B9C7-4A17742D9729}
+	EndGlobalSection
+EndGlobal
